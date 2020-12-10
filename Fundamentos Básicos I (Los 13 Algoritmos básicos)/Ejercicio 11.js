@@ -11,4 +11,4 @@ function a(x){
     z.push(suma/x.length);
     return z
 }
-console.log("Numero Mayor ",(a([1,5,10,-2])));
+console.log("Numero Mayor, Menor y Promedio Respectivamente ",(a([1,5,10,-2])));
